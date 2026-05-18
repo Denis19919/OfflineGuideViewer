@@ -1,2 +1,0 @@
-# OfflineGuideViewer
-Offline Guide Viewer
