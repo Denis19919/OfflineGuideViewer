@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+PhotoG/
+
+data.json
+
+.vscode/
+.idea/
+
+build/
+dist/
+
+*.spec
