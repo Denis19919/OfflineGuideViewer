@@ -27,6 +27,8 @@ The application can cache web pages and images locally for faster viewing and of
 <img width="1127" height="720" alt="image" src="https://github.com/user-attachments/assets/5fcf1c58-b87c-4bc1-a211-cf9508c023d3" />
 <img width="1362" height="727" alt="image" src="https://github.com/user-attachments/assets/25d79b93-5edf-4f6d-a747-aa4d31c61752" />
 <img width="1357" height="710" alt="image" src="https://github.com/user-attachments/assets/04cc6a3b-1bfd-493b-9ae7-596b10bbe859" />
+<img width="183" height="188" alt="image" src="https://github.com/user-attachments/assets/2c2e4974-de11-4f8f-9098-daf2a8047050" />
+
 
 ---
 
